@@ -106,7 +106,7 @@
     "pathe": "^2.0.3",
     "pdfjs-dist": "^4.10.38",
     "pkce-challenge": "^5.0.0",
-    "posthog-js": "^1.280.1",
+    "posthog-js": "^1.405.2",
     "posthog-node": "^5.10.0",
     "qrcode": "^1.5.4",
     "react": "^18.2.0",
