@@ -139,7 +139,7 @@
     "bufferutil": "^4.1.0",
     "dotenv": "^16.6.1",
     "electron": "41.0.4",
-    "electron-builder": "^26.0.12",
+    "electron-builder": "^26.15.3",
     "electron-vite": "^4.0.0",
     "esbuild": "^0.25.12",
     "eslint": "^9.37.0",
