@@ -15,7 +15,7 @@
     "types": "XDG_CONFIG_HOME=\"$HOME/.config/nimbalyst\" wrangler types"
   },
   "devDependencies": {
-    "wrangler": "^4.14.4",
+    "wrangler": "^4.131.0",
     "typescript": "^5.7.3"
   }
 }
